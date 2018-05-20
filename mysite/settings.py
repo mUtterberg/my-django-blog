@@ -25,7 +25,7 @@ SECRET_KEY = 'q#p5&djxf@2i11xp57=z!@o8ugoet4$3arcrif37*$e#fm8#rq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', '.mutterberg.ml']
 
 
 # Application definition
